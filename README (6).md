@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Scientist+%7C+ML+Engineer+%7C;Building+at+the+intersection+of+AI+%26+Finance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Scientist+%7C+Data+Analyst;Building+useful+data+analysis+insights" alt="Typing SVG" />
 
 </div>
 
