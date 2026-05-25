@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.S. Data Science, CS Minor @ UW–Madison · GPA 3.90
-- 📊 Financial Quant Analyst @ Shepherd Ventures — mean-variance optimization, portfolio modeling
+- 📊 Ex-Financial Quant Analyst Intern @ Shepherd Ventures: mean-variance optimization, portfolio modeling
 - 🔍 Focus: Machine Learning · Data Analytics · Computer Vision · Statistical Modeling
 - 🌱 Currently: RAG pipelines · CNNs · Time-Series · Advanced SQL 
 
