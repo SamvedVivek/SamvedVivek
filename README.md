@@ -18,9 +18,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.S. Data Science, CS Minor @ UW–Madison · GPA 3.90
-- 📊 Financial Quant Analyst @ Shepherd Ventures — mean-variance optimization, portfolio modeling
-- 🤖 ML Research Assistant @ MIT Manipal — computer vision, deep learning pipelines
-- 🔍 Focus: Machine Learning · Quantitative Finance · Computer Vision · Statistical Modeling
+- 📊 Ex-Financial Quant Analyst Intern @ Shepherd Ventures
+- 🔍 Focus: Machine Learning · Data Analytics · Computer Vision · Statistical Modeling
 - 🌱 Currently: Advanced SQL · Tableau · NLP
 
 ---
