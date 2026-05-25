@@ -15,9 +15,8 @@
 
 - 🎓 B.S. Data Science, CS Minor @ UW–Madison · GPA 3.90
 - 📊 Financial Quant Analyst @ Shepherd Ventures — mean-variance optimization, portfolio modeling
-- 🤖 ML Research Assistant @ MIT Manipal — computer vision, deep learning pipelines
-- 🔍 Focus: Machine Learning · Quantitative Finance · Computer Vision · Statistical Modeling
-- 🌱 Currently: RAG pipelines · CNNs · Time-Series · Skin Cancer DL
+- 🔍 Focus: Machine Learning · Data Analytics · Computer Vision · Statistical Modeling
+- 🌱 Currently: RAG pipelines · CNNs · Time-Series · Advanced SQL 
 
 ---
 
@@ -40,7 +39,7 @@
 ### 📈 [Time-Series](https://github.com/SamvedVivek/Time-Series)
 > Explored time-series forecasting techniques including ARIMA, decomposition, and trend/seasonality modeling on real-world financial and environmental datasets.
 
-`Python` `ARIMA` `Forecasting` `Pandas` `Matplotlib` `Jupyter`
+`Python` `Prophet` `XGBoost` `Forecasting` `Pandas` `Matplotlib` `Jupyter`
 
 ---
 
